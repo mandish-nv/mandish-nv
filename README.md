@@ -32,5 +32,3 @@ I’m a developer passionate about building scalable applications and exploring 
 - Databases: PostgreSQL, MySQL, MongoDB, Redis, Qdrant (Vector Database) 
 - Web & APIs: FastAPI, Streamlit, MERN Stack (MongoDB, Express js, React js, Node js), Postman 
 - Tools & DevOps: Docker, Git, GitHub, Sphinx, Figma, Jupyter Notebook, Anaconda
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandish-nv)](https://github.com/anuraghazra/github-readme-stats)
